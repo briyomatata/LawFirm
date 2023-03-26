@@ -1,0 +1,55 @@
+ <div class="p-container">
+        <h1 class="p-title">
+            Practise Area
+        </h1>
+        <div class="p-row">
+            <div class="p-card">
+                <div class="card-header">
+                    <h2>Law Section</h2>
+                </div>
+                <div class="card-body">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo obcaecati similique omnis delectus quo? 
+                
+                    </p>
+                    <a href="" class="button">Read More</a>
+                </div>
+            </div>
+
+            <div class="p-card">
+                <div class="card-header">
+                    <h2>Law Section</h2>
+                </div>
+                <div class="card-body">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo obcaecati similique omnis delectus quo? 
+                    </p>
+                    <a href="" class="button">Read More</a>
+                </div>
+            </div>
+
+            <div class="p-card">
+                <div class="card-header">
+                    <h2>Law Section</h2>
+                </div>
+                <div class="card-body">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo obcaecati similique omnis delectus quo? 
+                    </p>
+                    <a href="" class="button">Read More</a>
+                </div>
+            </div>
+
+            <div class="p-card">
+                <div class="card-header">
+                    <h2>Law Section</h2>
+                </div>
+                <div class="card-body">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo obcaecati similique omnis delectus quo? 
+                    </p>
+                    <a href="" class="button">Read More</a>
+                </div>
+            </div>
+        </div>
+    </div>
